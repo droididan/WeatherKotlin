@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_cities">
+        <item>London,UK</item>
+        <item>Manchester,UK</item>
+        <item>Bristol,UK</item>
+        <item>Bath,UK</item>
+        <item>Glasgow,UK</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenWeatherKt</string>
+    <string name="content_desc_progress_bar">progress bar</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="netwrok_error">Network Error</string>
+</resources>
